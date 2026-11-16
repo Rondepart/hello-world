@@ -1,2 +1,2 @@
 # hello-world
-practice repo | testing commmit changes
+Sandbox repo to test git operations
